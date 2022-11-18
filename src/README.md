@@ -1,3 +1,9 @@
+### Run the following to start the code
+
+```
+node index.js
+```
+
 ### Explanation for solution
 
 - We imported our store.
